@@ -1,7 +1,7 @@
 # Text Editor
     
 ## Description
-A text editor web application that can run in the browser or offline and will store the data..
+A text editor web application that can run in the browser or offline and will store the data.
 
 ## Table of Contents
 * [Installation](#installation)
